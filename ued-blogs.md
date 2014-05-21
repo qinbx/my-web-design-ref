@@ -1,2 +1,2 @@
-* �Ա�UED <http://ued.taobao.org/>
-* ��ѶCDC <http://cdc.tencent.com/>
+﻿* 淘宝UED <http://ued.taobao.org/>
+* 腾讯CDC <http://cdc.tencent.com/>
