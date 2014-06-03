@@ -1,6 +1,9 @@
-﻿* 淘宝UED <http://ued.taobao.org/>
+﻿UED
+* 淘宝UED <http://ued.taobao.org/>
 * 腾讯CDC <http://cdc.tencent.com/>
 
+参考
+* w3c
 * w3school
 * 飘零雾雨CSS参考<http://css.doyoe.com/>
 * 
